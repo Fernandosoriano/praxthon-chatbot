@@ -1,0 +1,13 @@
+happy_path:
+  - usr_saludo
+  - bot_saludo
+  - usr_req_producto
+  - bot_confirma_producto
+  - usr_req_producto
+  - bot_confirma_producto
+  - usr_req_producto
+  - bot_confirma_producto
+  - usr_req_total
+  - bot_calc_total
+  - usr_agradece
+  - bot_despide_agradece
